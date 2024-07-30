@@ -19,14 +19,7 @@ cm=cname_csv.ComputerManager('cname.csv')
 # Example usage:
 if __name__ == "__main__":
     # Replace with the actual computer names or IPs in your network
-    # computers_to_shutdown = ["vedu101","vedu103","vedu06","vedu23","vedu16","vedu104","vedu13","vedu02","vedu14","vedu20","vedu19","vedu11","vedu02","vedu1","vedu21","vedu18"]
-    # computers_to_shutdown=["vedu06","vedu103"]
-    # for computer in computers_to_shutdown:
-    #     shutdown_computer(computer)
-    #shutdown_computer("vedu23")
 
-    computers_to_shutdown = ["vedu101","vedu103","vedu06","vedu23","vedu16","vedu104","vedu13","vedu02","vedu14","vedu20","vedu19","vedu11","vedu02","vedu1","vedu21","vedu18"]
-    
 
     password="hello"
   
