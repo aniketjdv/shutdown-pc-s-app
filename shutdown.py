@@ -18,9 +18,7 @@ cm=cname_csv.ComputerManager('cname.csv')
 
 # Example usage:
 if __name__ == "__main__":
-    # Replace with the actual computer names or IPs in your network
-
-
+    
     password="hello"
   
     flag=True
